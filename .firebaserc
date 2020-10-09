@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "database-ca7ba": {
+      "hosting": {
+        "database": [
+          "database-ca7ba"
+        ]
+      }
+    }
+  }
+}
